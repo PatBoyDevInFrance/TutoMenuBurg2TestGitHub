@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TutoMenuBurg2</string>
+    <string name="large_texte">Large texte</string>
+    <string name="textview">TextView</string>
+    <string name="funckingtextview">FunckingTextView</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+
+</resources>
